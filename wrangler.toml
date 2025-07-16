@@ -1,8 +1,10 @@
-name = "akvar-v2ray.Ahsan.tepo20"
+name = "akbar-v2ray"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
+account_id = "9db606e4da7ddb225e7fc6f34cf7357e"
+
 kv_namespaces = [
-  { binding = "settings", id = "almasi1362" }
+  { binding = "settings", id = "90bff85ccccd400ca29ee0615ec4dd73" }
 ]
