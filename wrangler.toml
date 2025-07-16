@@ -1,4 +1,4 @@
-name = "almasi1362.akbar-v2ray"
+name = "akvar-v2ray.Ahsan.tepo20"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
