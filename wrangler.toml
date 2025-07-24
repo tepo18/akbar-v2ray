@@ -1,4 +1,4 @@
-name = "akbar-v2ray"
+name = "ahsan.tepo1383online.akbar-v2ray"
 type = "javascript"  # 👈 اضافه شده
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
